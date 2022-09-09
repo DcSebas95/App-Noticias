@@ -1,0 +1,7 @@
+{
+  "name": "ServicosClaseSebas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
